@@ -1,7 +1,9 @@
-package com.serhiihonchar.unitandintegrationtesting;
+package com.serhiihonchar.unitandintegrationtesting.student;
 
-import com.serhiihonchar.unitandintegrationtesting.exception.BadRequestException;
-import com.serhiihonchar.unitandintegrationtesting.exception.StudentNotFoundException;
+import com.serhiihonchar.unitandintegrationtesting.student.Student;
+import com.serhiihonchar.unitandintegrationtesting.student.StudentRepository;
+import com.serhiihonchar.unitandintegrationtesting.student.exception.BadRequestException;
+import com.serhiihonchar.unitandintegrationtesting.student.exception.StudentNotFoundException;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 

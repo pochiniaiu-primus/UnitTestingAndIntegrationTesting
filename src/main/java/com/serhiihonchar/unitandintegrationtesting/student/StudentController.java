@@ -1,4 +1,4 @@
-package com.serhiihonchar.unitandintegrationtesting;
+package com.serhiihonchar.unitandintegrationtesting.student;
 
 import lombok.AllArgsConstructor;
 import org.springframework.web.bind.annotation.*;

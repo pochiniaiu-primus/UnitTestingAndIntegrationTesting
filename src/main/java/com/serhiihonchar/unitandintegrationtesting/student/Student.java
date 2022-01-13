@@ -1,5 +1,6 @@
-package com.serhiihonchar.unitandintegrationtesting;
+package com.serhiihonchar.unitandintegrationtesting.student;
 
+import com.serhiihonchar.unitandintegrationtesting.student.Gender;
 import lombok.*;
 
 import javax.persistence.*;

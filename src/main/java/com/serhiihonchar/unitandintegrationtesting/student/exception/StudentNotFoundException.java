@@ -1,4 +1,4 @@
-package com.serhiihonchar.unitandintegrationtesting.exception;
+package com.serhiihonchar.unitandintegrationtesting.student.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

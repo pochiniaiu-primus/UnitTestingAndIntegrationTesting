@@ -1,4 +1,4 @@
-package com.serhiihonchar.unitandintegrationtesting;
+package com.serhiihonchar.unitandintegrationtesting.student;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
